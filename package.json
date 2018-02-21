@@ -4,6 +4,12 @@
   "description": "A multiplication-based hash code for JS strings",
   "author": "Andrew Zyabin",
   "main": "timescode.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/schas002/timescode.git"
