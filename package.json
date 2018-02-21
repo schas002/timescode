@@ -1,0 +1,16 @@
+{
+  "name": "@schas002/timescode",
+  "version": "0.0.0",
+  "description": "A multiplication-based hash code for JS strings",
+  "author": "Andrew Zyabin",
+  "main": "timescode.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schas002/timescode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/schas002/timescode/issues"
+  },
+  "homepage": "https://schas002.github.io/timescode",
+  "license": "MIT"
+}
